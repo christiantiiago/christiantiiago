@@ -16,7 +16,7 @@
 
 ## Contato
 - 📧 Email: christiantiiago@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/christiantiagooliveira/
+- 🔗 LinkedIn: wwww.linkedin.com/in/christiantiagooliveira/
 
 
 ## Visite meu perfil para saber mais sobre meu trabalho e projetos. Fique à vontade para entrar em contato!
