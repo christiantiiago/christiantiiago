@@ -1,37 +1,49 @@
-Olá, eu sou Christian Oliveira 👋
-🌟 Sobre Mim
-🌍 Localização: Betim, MG.
-💼 Profissão: Programador e Desenvolvedor de Software.
-🎓 Formação Acadêmica: Superior em andamento.
-💻 Habilidades Técnicas
-Linguagens de Programação:
+💼 Sobre mim
+
+Desenvolvedor Full Stack com formação técnica pelo Senac e graduação em andamento pela Estácio. Possuo experiência prática no desenvolvimento de sistemas e aplicações web voltadas para gestão, automação de processos e soluções orientadas a negócios.
+
+Tenho foco na construção de aplicações escaláveis, com boa usabilidade e organização de dados, sempre buscando eficiência e performance. Estou em constante evolução técnica e aberto a novos desafios, especialmente em projetos que gerem impacto real.
+
+🛠️ Stack Tecnológica
+
+Linguagens:
+
 HTML
 CSS
 JavaScript
 TypeScript
 PHP
+
 Banco de Dados:
+
 MySQL
 PostgreSQL
 SQLite
+
 Tecnologias e Ferramentas:
+
+Node.js
+React
+Angular
 Bootstrap
 jQuery
-Angular
-React
 React Router
-APIs Restful
-Node.js
-Áreas de Interesse:
-Desenvolvimento Web (Front-End e Back-End)
-Integrações com APIs
-Gerenciamento de Banco de Dados
-Automação e Otimização de Sistemas
-🚀 Projetos
-Sistemas de Gestão: Desenvolvimento de sistemas completos para gerenciamento de estoque, movimentação de cargas, relatórios e mais.
-Aplicativos Web: Criação de aplicativos personalizados para necessidades específicas, como gerenciamento de bancas esportivas e listas de compras em tempo real.
-Soluções em PHP e MySQL: Desenvolvimento de sistemas robustos e eficientes utilizando PHP e bancos de dados relacionais.
-Aplicações Mobile e Web: Projetos criados com foco em responsividade e usabilidade, utilizando tecnologias modernas como React e Angular.
+APIs RESTful
+Git & GitHub
+📊 Áreas de Atuação
+Desenvolvimento Web (Front-end e Back-end)
+Integração com APIs
+Modelagem e gestão de banco de dados
+Automação de processos e otimização de sistemas
+📂 Projetos
+Sistemas de Gestão: Desenvolvimento de plataformas completas para controle de estoque, logística e relatórios gerenciais.
+Aplicações Web: Criação de sistemas personalizados, incluindo soluções em tempo real e aplicações sob demanda.
+Soluções com PHP e MySQL: Desenvolvimento de sistemas robustos com foco em performance e confiabilidade.
+Aplicações Responsivas: Projetos web e mobile com foco em usabilidade, utilizando React e Angular.
 📬 Contato
+
 📧 Email: christiantiiago@gmail.com
-🔗 LinkedIn: linkedin.com/in/christiantiagooliveira
+
+🔗 LinkedIn: https://www.linkedin.com/in/christian-tiago/
+
+💻 GitHub: https://github.com/christiantiiago
