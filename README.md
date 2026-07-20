@@ -1,8 +1,10 @@
 💼 Sobre mim
 
-Desenvolvedor Full Stack com formação técnica pelo Senac e graduação em andamento pela Estácio. Possuo experiência prática no desenvolvimento de sistemas e aplicações web voltadas para gestão, automação de processos e soluções orientadas a negócios.
+Desenvolvedor Full Stack com perfil analítico, criativo e orientado à resolução de problemas. Gosto de transformar ideias em produtos digitais completos, participando de todas as etapas do desenvolvimento: planejamento, arquitetura, implementação, integração e evolução contínua.
 
-Tenho foco na construção de aplicações escaláveis, com boa usabilidade e organização de dados, sempre buscando eficiência e performance. Estou em constante evolução técnica e aberto a novos desafios, especialmente em projetos que gerem impacto real.
+Tenho experiência na criação de plataformas SaaS, sistemas de gestão, aplicações web responsivas e PWAs utilizando React, TypeScript, Node.js, Python, PHP e Supabase. Atuo com modelagem de bancos de dados, desenvolvimento de APIs REST, autenticação, integrações e automações, sempre priorizando qualidade, escalabilidade e desempenho.
+
+Minha experiência no setor de logística também me proporcionou uma visão prática das necessidades do mercado, permitindo desenvolver soluções alinhadas aos desafios reais das empresas. Sou movido por tecnologia, inovação e aprendizado contínuo, buscando criar softwares que façam diferença tanto para os usuários quanto para o negócio.
 
 🛠️ Stack Tecnológica
 
