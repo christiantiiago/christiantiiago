@@ -1,8 +1,8 @@
-# Olá, eu sou Christian Oliveira 👋
+# Christian Oliveira
 
-**Desenvolvedor full stack · Produtos digitais, logística e automação**
+**Desenvolvedor full stack · Produtos digitais e automação de processos**
 
-Minha experiência em operações logísticas influencia o jeito como desenvolvo software: começo pelo problema de quem usa o sistema e acompanho o fluxo inteiro, da interface ao banco de dados. Hoje, construo produtos web e mobile para conectar pessoas, organizar operações e dar visibilidade a custos, rotas e pagamentos.
+Conheço de ponta a ponta os processos de diferentes áreas de negócio. Antes de escrever código, mapeio como as pessoas trabalham, quais regras orientam cada etapa e onde surgem os gargalos. Uso esse entendimento para desenvolver produtos web e mobile, da definição do problema à implementação, aos testes e à evolução em produção.
 
 [Portfólio](https://christiantiiago.github.io/) · [LinkedIn](https://www.linkedin.com/in/christiantiagooliveira/)
 
