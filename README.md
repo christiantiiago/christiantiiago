@@ -1,51 +1,31 @@
-💼 Sobre mim
+# Olá, eu sou Christian Oliveira 👋
 
-Desenvolvedor Full Stack com perfil analítico, criativo e orientado à resolução de problemas. Gosto de transformar ideias em produtos digitais completos, participando de todas as etapas do desenvolvimento: planejamento, arquitetura, implementação, integração e evolução contínua.
+**Desenvolvedor full stack · Produtos digitais, logística e automação**
 
-Tenho experiência na criação de plataformas SaaS, sistemas de gestão, aplicações web responsivas e PWAs utilizando React, TypeScript, Node.js, Python, PHP e Supabase. Atuo com modelagem de bancos de dados, desenvolvimento de APIs REST, autenticação, integrações e automações, sempre priorizando qualidade, escalabilidade e desempenho.
+Minha experiência em operações logísticas influencia o jeito como desenvolvo software: começo pelo problema de quem usa o sistema e acompanho o fluxo inteiro, da interface ao banco de dados. Hoje, construo produtos web e mobile para conectar pessoas, organizar operações e dar visibilidade a custos, rotas e pagamentos.
 
-Minha experiência no setor de logística também me proporcionou uma visão prática das necessidades do mercado, permitindo desenvolver soluções alinhadas aos desafios reais das empresas. Sou movido por tecnologia, inovação e aprendizado contínuo, buscando criar softwares que façam diferença tanto para os usuários quanto para o negócio.
+[Portfólio](https://christiantiiago.github.io/) · [LinkedIn](https://www.linkedin.com/in/christiantiagooliveira/)
 
-🛠️ Stack Tecnológica
+## Projetos em destaque
 
-Linguagens:
+### [Trabalho Rápido](https://trabalhorapido.app/)
+Marketplace de serviços que aproxima clientes e prestadores. Trabalho na jornada de descoberta, propostas e contratação, além de integrações de geolocalização e pagamento.
 
-HTML
-CSS
-JavaScript
-TypeScript
-PHP
+### Renda Extra
+Aplicativo para quem trabalha com veículo acompanhar ganhos, custos e metas. O cálculo por quilômetro e por hora ajuda a comparar o que entra com o que sobra no fim do dia.
 
-Banco de Dados:
+### Gestão de frotas e locações
+Solução desenvolvida para um cliente que reúne veículos, motoristas, contratos, vistorias e cobranças. O foco é dar à operação um lugar para acompanhar pendências sem depender de várias planilhas.
 
-MySQL
-PostgreSQL
-SQLite
+## Tecnologias
 
-Tecnologias e Ferramentas:
+- **Linguagens:** TypeScript, JavaScript, SQL, PHP e Python
+- **Interface:** React, Vite, Tailwind CSS, HTML e CSS
+- **Backend e dados:** Node.js, Supabase, PostgreSQL, MySQL e APIs REST
+- **Mobile e integrações:** PWA, Capacitor, Mapbox e Asaas
+- **Entrega:** Git, GitHub Actions e Vitest
 
-Node.js
-React
-Angular
-Bootstrap
-jQuery
-React Router
-APIs RESTful
-Git & GitHub
-📊 Áreas de Atuação
-Desenvolvimento Web (Front-end e Back-end)
-Integração com APIs
-Modelagem e gestão de banco de dados
-Automação de processos e otimização de sistemas
-📂 Projetos
-Sistemas de Gestão: Desenvolvimento de plataformas completas para controle de estoque, logística e relatórios gerenciais.
-Aplicações Web: Criação de sistemas personalizados, incluindo soluções em tempo real e aplicações sob demanda.
-Soluções com PHP e MySQL: Desenvolvimento de sistemas robustos com foco em performance e confiabilidade.
-Aplicações Responsivas: Projetos web e mobile com foco em usabilidade, utilizando React e Angular.
-📬 Contato
+## Código público
 
-📧 Email: christiantiiago@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/christian-tiago/
-
-💻 GitHub: https://github.com/christiantiiago
+- [Piano web](https://github.com/christiantiiago/piano): teclado interativo em JavaScript.
+- [Interface para hamburgueria](https://github.com/christiantiiago/comerciohamburguer): projeto front-end em HTML, CSS e JavaScript.
